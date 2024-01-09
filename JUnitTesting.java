@@ -3,7 +3,7 @@ package Lab11;
 public class JUnitTesting {
 
 	public int square (int x) {
-		return x*x;
+		return x+x;
 		}
 		public int countA(String word)
 		{
